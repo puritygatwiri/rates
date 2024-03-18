@@ -1,9 +1,9 @@
 <?php
 class Database{
     //database credentials
-    private $host = "localhost";
-    private $db_name = "dollar";
-    private $username = "root";
+    private $host = "";
+    private $db_name = "";
+    private $username = "";
     private $password = "";
     public $conn;
     //get the db connection
